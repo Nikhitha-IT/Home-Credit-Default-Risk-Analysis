@@ -1,0 +1,13 @@
+# Power BI temporary files
+*.pbix.autosave
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
