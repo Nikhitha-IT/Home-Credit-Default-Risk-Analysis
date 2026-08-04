@@ -1,6 +1,6 @@
 # 🏦 Home Credit Default Risk Analysis
 
-![Project Cover](Images/Project_cover_page.png)
+![Project Cover](Images/Project_Cover_page.png)
 
 ## 📌 Project Overview
 
